@@ -1,7 +1,7 @@
 /* Name: main.c
- * Author: <insert your name here>
- * Copyright: <insert your copyright message here>
- * License: <insert your license reference here>
+ * Author: Richard Rothwell
+ * Copyright: Richard Rothwell December 2019
+ * License: Apache License, Version 2.0, January 2004, http://www.apache.org/licenses/
  */
 
 #include <avr/io.h>
